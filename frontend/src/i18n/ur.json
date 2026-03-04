@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "home": "ہوم",
+    "tourPackages": "ٹور پیکجز",
+    "tourPlan": "ٹور پلان",
+    "accommodation": "رہائش",
+    "messages": "چیٹ",
+    "login": "لاگ ان",
+    "signup": "رجسٹر کریں",
+    "signin": "سائن ان",
+    "newCustomer": "نیا صارف؟",
+    "startHere": "یہاں سے شروع کریں",
+    "tripmate": "ٹرپ میٹ",
+    "openMenu": "مین مینو کھولیں"
+  },
+  "language": {
+    "switchToUrdu": "اردو",
+    "switchToEnglish": "انگریزی"
+  }
+}

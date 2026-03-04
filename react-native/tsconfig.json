@@ -1,0 +1,17 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+, "src/screens/IntroScreen3.jsx", "src/screens/IntroScreen2.jsx", "src/screens/IntroScreen1.jsx", "src/screens/MainApp.jsx"  ]
+}

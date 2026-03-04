@@ -1,0 +1,21 @@
+{
+    "nav": {
+      "home": "Home",
+      "tourPackages": "Tour Packages",
+      "tourPlan": "Tour Plan",
+      "accommodation": "Accommodation",
+      "messages": "Chat",
+      "login": "Login",
+      "signup": "Sign Up",
+      "signin": "Sign In",
+      "newCustomer": "New customer?",
+      "startHere": "Start here",
+      "tripmate": "TripMate",
+      "openMenu": "Open main menu"
+    },
+    "language": {
+      "switchToUrdu": "اردو",
+      "switchToEnglish": "English"
+    }
+  }
+  
